@@ -3,3 +3,4 @@ data_preprocessing/raw_data
 data_preprocessing/raw_data.zip
 data_preprocessing/zipped_data
 data_preprocessing/interwencje_psp.db
+data_preprocessing/scripts/interwencje_psp.db
