@@ -1,78 +1,80 @@
 Każdy plik zawiera dane statystyczne za poszczególne lata rok, zagregowane do poniższych tabel:
 
-1. Zdarzenia wg rodzaju i wielkości w rozbiciu na województwo
-1a. Zdarzenia wg rodzaju i wielkości w rozbiciu na komendy wojewódzkie PSP
-2. Zdarzenia wg rodzaju i wielkości w rozbiciu na miesiące
+ZROBIONE: 
+    1. Zdarzenia wg rodzaju i wielkości w rozbiciu na województwo 
+    1a. Zdarzenia wg rodzaju i wielkości w rozbiciu na komendy wojewódzkie PSP
+    2. Zdarzenia wg rodzaju i wielkości w rozbiciu na miesiące
 
-3. Pożary wg kodu obiektu w rozbiciu na województwo
+    3. Pożary wg kodu obiektu w rozbiciu na województwo
 
-4. Miejscowe zagrożenia wg kodu obiektu w rozbiciu na województwo
+TO DO:
+    4. Miejscowe zagrożenia wg kodu obiektu w rozbiciu na województwo
 
-5. Pożary i miejscowe zagrożenia wg kodu obiektu w rozbiciu na rodzaj i wielkość zdarzenia
+    5. Pożary i miejscowe zagrożenia wg kodu obiektu w rozbiciu na rodzaj i wielkość zdarzenia
 
-6. Informacje o czasie zdarzenia, czasie działań ratowniczych w rozbiciu na rodzaj i wielkość zdarzenia
-7. Informacje o czasie zdarzenia, czasie działań ratowniczych w rozbiciu na województwo
+    6. Informacje o czasie zdarzenia, czasie działań ratowniczych w rozbiciu na rodzaj i wielkość zdarzenia
+    7. Informacje o czasie zdarzenia, czasie działań ratowniczych w rozbiciu na województwo
 
-8. Udział jednostek ochrony przeciwpożarowej w zdarzeniach w rozbiciu na województwo
-9. Udział jednostek ochrony przeciwpożarowej w zdarzeniach w rozbiciu na rodzaj i wielkość zdarzenia
+    8. Udział jednostek ochrony przeciwpożarowej w zdarzeniach w rozbiciu na województwo
+    9. Udział jednostek ochrony przeciwpożarowej w zdarzeniach w rozbiciu na rodzaj i wielkość zdarzenia
 
-10. Wypadki z ludźmi podczas pożarów i miejscowych zagrożeń w rozbiciu na województwo
+    10. Wypadki z ludźmi podczas pożarów i miejscowych zagrożeń w rozbiciu na województwo
 
-11. Straty w pożarach i miejscowych zagrożeniach w rozbiciu na województwo
+    11. Straty w pożarach i miejscowych zagrożeniach w rozbiciu na województwo
 
-12. Średnia powierzchnia pożarów i miejscowych zagrożeń wg wielkości zdarzeń w rozbiciu na województwo
+    12. Średnia powierzchnia pożarów i miejscowych zagrożeń wg wielkości zdarzeń w rozbiciu na województwo
 
-13. Przypuszczalna przyczyna pożarów w rozbiciu na województwo
-14. Przypuszczalna przyczyna miejscowych zagrożeń w rozbiciu na województwo
-19. Przypuszczalna przyczyna pożaru w rozbiciu na kod obiektu
-20. Przypuszczalna przyczyna miejscowych zagrożeń w rozbiciu na kod obiektu
+    13. Przypuszczalna przyczyna pożarów w rozbiciu na województwo
+    14. Przypuszczalna przyczyna miejscowych zagrożeń w rozbiciu na województwo
+    19. Przypuszczalna przyczyna pożaru w rozbiciu na kod obiektu
+    20. Przypuszczalna przyczyna miejscowych zagrożeń w rozbiciu na kod obiektu
 
-15. Rodzaj prowadzonych działań ratowniczych, użyty sprzęt przy pożarach w rozbiciu na województwo
-16. Rodzaj prowadzonych działań ratowniczych, użyty sprzęt przy miejscowych zagrożeniach w rozbiciu na województwo
-17. Rodzaj prowadzonych działań, użyty sprzęt w rozbiciu na rodzaj zdarzenia i kod obiektu
+    15. Rodzaj prowadzonych działań ratowniczych, użyty sprzęt przy pożarach w rozbiciu na województwo
+    16. Rodzaj prowadzonych działań ratowniczych, użyty sprzęt przy miejscowych zagrożeniach w rozbiciu na województwo
+    17. Rodzaj prowadzonych działań, użyty sprzęt w rozbiciu na rodzaj zdarzenia i kod obiektu
 
-18. Miejsce prowadzenia działań ratowniczych przy zdarzeniach w rozbiciu na województwo
+    18. Miejsce prowadzenia działań ratowniczych przy zdarzeniach w rozbiciu na województwo
 
-21. Liczba osób pozostałych podmiotów współdziałających przy zdarzeniach w rozbiciu na województwo
+    21. Liczba osób pozostałych podmiotów współdziałających przy zdarzeniach w rozbiciu na województwo
 
-22. Lista pojazdów, statków pozostałych podmiotów współdziałających przy zdarzeniach w rozbiciu na rodzaj i wielkość zdarzenia
+    22. Lista pojazdów, statków pozostałych podmiotów współdziałających przy zdarzeniach w rozbiciu na rodzaj i wielkość zdarzenia
 
-23. Użyte środki gaśnicze, zaopatrzenie wodne w rozbiciu na województwo
-24. Użyte środki gaśnicze, zaopatrzenie wodne w rozbiciu na rodzaj i wielkość zdarzenia
+    23. Użyte środki gaśnicze, zaopatrzenie wodne w rozbiciu na województwo
+    24. Użyte środki gaśnicze, zaopatrzenie wodne w rozbiciu na rodzaj i wielkość zdarzenia
 
-25. Dane o budynkach, pomieszczeniach, w których powstało zdarzenie w rozbiciu na województwo
-26. Dane o budynkach, pomieszczeniach, w których powstało zdarzenie w rozbiciu na rodzaj i wielkość zdarzenia
+    25. Dane o budynkach, pomieszczeniach, w których powstało zdarzenie w rozbiciu na województwo
+    26. Dane o budynkach, pomieszczeniach, w których powstało zdarzenie w rozbiciu na rodzaj i wielkość zdarzenia
 
-27. Rodzaj miejscowego zagrożenia w rozbiciu na województwo
-28. Rodzaj miejscowego zagrożenia w rozbiciu na wielkość zdarzenia
+    27. Rodzaj miejscowego zagrożenia w rozbiciu na województwo
+    28. Rodzaj miejscowego zagrożenia w rozbiciu na wielkość zdarzenia
 
-29. Rodzaj pożarów lasów w rozbiciu na województwo
-30. Rodzaj pożarów lasów w rozbiciu na wielkość zdarzenia
+    29. Rodzaj pożarów lasów w rozbiciu na województwo
+    30. Rodzaj pożarów lasów w rozbiciu na wielkość zdarzenia
 
-31. Rodzaj i wielkość zdarzenia, w których stwierdzono obecność związków chemicznych w rozbiciu na numer UN towarów niebezpiecznych
+    31. Rodzaj i wielkość zdarzenia, w których stwierdzono obecność związków chemicznych w rozbiciu na numer UN towarów niebezpiecznych
 
-32. Medyczne działania ratownicze wg rodzaju zdarzeń w rozbiciu na województwo
+    32. Medyczne działania ratownicze wg rodzaju zdarzeń w rozbiciu na województwo
 
-33. Udział jednostek ochrony przeciwpożarowej spoza terenu gminy i powiatu wg rodzaju zdarzeń w rozbiciu na województwo
+    33. Udział jednostek ochrony przeciwpożarowej spoza terenu gminy i powiatu wg rodzaju zdarzeń w rozbiciu na województwo
 
-Tabele dodatkowe
+    Tabele dodatkowe
 
-A. Zauważenie i zgłoszenie zdarzenia w rozbiciu na województwo
-A1. Zauważenie i zgłoszenie zdarzenia w rozbiciu na województwo, powiat
-A2. Zauważenie i zgłoszenie zdarzenia w rozbiciu na województwo, powiat, gminę
+    A. Zauważenie i zgłoszenie zdarzenia w rozbiciu na województwo
+    A1. Zauważenie i zgłoszenie zdarzenia w rozbiciu na województwo, powiat
+    A2. Zauważenie i zgłoszenie zdarzenia w rozbiciu na województwo, powiat, gminę
 
-B. Zauważenie i zgłoszenie zdarzenia w rozbiciu na rodzaj i wielkość zdarzenia
+    B. Zauważenie i zgłoszenie zdarzenia w rozbiciu na rodzaj i wielkość zdarzenia
 
-C1. Liczba zdarzeń za dany okres, w porównaniu do analogicznego okresu ubiegłego roku, w rozbiciu na województwo
+    C1. Liczba zdarzeń za dany okres, w porównaniu do analogicznego okresu ubiegłego roku, w rozbiciu na województwo
 
-C2. Wypadki z ludźmi za dany okres, w porównaniu do analogicznego okresu ubiegłego roku, w rozbiciu na rodzaj zdarzenia
+    C2. Wypadki z ludźmi za dany okres, w porównaniu do analogicznego okresu ubiegłego roku, w rozbiciu na rodzaj zdarzenia
 
-C3a. Liczba pożarów za dany okres, w porównaniu do analogicznego okresu ubiegłego roku, w rozbiciu na kod obiektu
+    C3a. Liczba pożarów za dany okres, w porównaniu do analogicznego okresu ubiegłego roku, w rozbiciu na kod obiektu
 
-C3b. Liczba miejscowych zagrożeń za dany okres, w porównaniu do analogicznego okresu ubiegłego roku, w rozbiciu na kod obiektu
+    C3b. Liczba miejscowych zagrożeń za dany okres, w porównaniu do analogicznego okresu ubiegłego roku, w rozbiciu na kod obiektu
 
-C3c. Liczba miejscowych zagrożeń za dany okres, w porównaniu do analogicznego okresu ubiegłego roku, w rozbiciu na rodzaj miejscowego zagrożenia
+    C3c. Liczba miejscowych zagrożeń za dany okres, w porównaniu do analogicznego okresu ubiegłego roku, w rozbiciu na rodzaj miejscowego zagrożenia
 
-C4. Czas interwencji za dany okres, w porównaniu do analogicznego okresu ubiegłego roku, w rozbiciu na rodzaj zdarzenia
+    C4. Czas interwencji za dany okres, w porównaniu do analogicznego okresu ubiegłego roku, w rozbiciu na rodzaj zdarzenia
 
-C5. Liczba zdarzeń, czas interwencji, szacunkowe straty, wartość uratowanego mienie za dany okres
+    C5. Liczba zdarzeń, czas interwencji, szacunkowe straty, wartość uratowanego mienie za dany okres

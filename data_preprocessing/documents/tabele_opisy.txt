@@ -1,0 +1,4 @@
+1_2 -> Zdarzenia wg rodzaju i wielkości w rozbiciu na województwo, powiat, gminę
+1a -> Zdarzenia wg rodzaju i wielkości w rozbiciu na komendy wojewódzkie PSP
+2 -> Zdarzenia wg rodzaju i wielkości w rozbiciu na miesiące
+3 -> Pożary wg kodu obiektu w rozbiciu na województwo
